@@ -1,6 +1,6 @@
-# 📊 Advertising Sales Prediction using Regression (Python)
+# Advertising Sales Prediction using Regression (Python)
 
-## 🔍 Project Overview
+## Project Overview
 
 This project aims to **analyze and predict sales** based on **advertising investments** across three channels:
 
@@ -14,9 +14,9 @@ The project is implemented in **Python** using **linear regression models (simpl
 
 ---
 
-## 📓 Main Analysis Notebook (START HERE)
+## Main Analysis Notebook (START HERE)
 
-➡️ **Click the link below to access the complete analysis:**  
+**Click the link below to access the complete analysis:**  
 👉 [analysis.ipynb](./analysis.ipynb)
 
 This notebook contains:
@@ -39,7 +39,7 @@ advertising_project/
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyze the relationship between advertising budgets and sales
 - Identify the most influential advertising channels
@@ -60,7 +60,7 @@ advertising_project/
 
 ---
 
-## 📌 Important Note
+## important Note
 
 ➡️ The **`analysis.ipynb` notebook is the core of this project**.  
 ➡️ It includes all explanations and comments required to understand the methodology and results.
