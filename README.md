@@ -88,7 +88,7 @@ This part includes:
 ## Main Notebook – Part 2 (KNN & SVM)
 
 **Access the complete analysis here:**  
-👉 [knn_svm_analysis.ipynb](./knn_svm_analysis.ipynb)
+👉 [knn_svm_analysis.ipynb](./Advertising_Sales_KNN_SVM.ipynb)
 
 This notebook contains:
 - Data preparation and normalization
