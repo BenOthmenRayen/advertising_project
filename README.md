@@ -65,6 +65,39 @@ advertising_project/
 ➡️ The **`analysis.ipynb` notebook is the core of this project**.  
 ➡️ It includes all explanations and comments required to understand the methodology and results.
 
+---    
+## Part 2 – Extension with KNN and SVM Models
+
+In the second part of this project, the initial regression analysis is extended by applying **non-linear machine learning models** on the same advertising dataset.  
+The objective is to evaluate whether more advanced models can improve sales prediction performance compared to linear regression.
+
+The following models are implemented:
+- **K-Nearest Neighbors (KNN) Regression**
+- **Support Vector Machine (SVM) Regression**
+
+This part includes:
+- Feature scaling (standardization) required for distance-based models
+- Model training and prediction
+- Performance evaluation using MAE, RMSE, and R² score
+- A comparative analysis between linear regression, KNN, and SVM
+
+➡️ **All detailed explanations, code comments, visualizations, and interpretations are provided in the dedicated Jupyter Notebook below.**
+
 ---
+
+## Main Notebook – Part 2 (KNN & SVM)
+
+**Access the complete analysis here:**  
+👉 [knn_svm_analysis.ipynb](./knn_svm_analysis.ipynb)
+
+This notebook contains:
+- Data preparation and normalization
+- KNN regression implementation
+- SVM regression implementation
+- Model performance comparison
+- Final conclusions and discussion
+
+
+
 
 
